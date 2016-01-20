@@ -1,0 +1,19 @@
+
+body {
+    background-color: #080808;
+    color: #111111;
+}
+h1 {
+    display: block;
+    float: left;                    /*How do we override bootstrap to move things around?*/
+    margin-left: 120px;
+}
+
+.well {
+    background-color: #262626;
+    color: #dddddd;
+}
+
+p #counter {
+    color: white;
+}
